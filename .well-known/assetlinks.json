@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.hogbin.hoglog",
+      "sha256_cert_fingerprints": [
+        "98:FE:B8:11:78:96:FD:0D:91:36:1D:35:90:33:CE:F5:AE:0F:CC:E6:01:FD:0A:B5:1A:E9:33:74:3A:B6:01:48"
+      ]
+    }
+  }
+]
